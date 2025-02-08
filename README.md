@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Frontend,MEARN**
+- 💬 Ask me about **Frontend,MERN**
 
 - 📫 How to reach me **bijoybiswas0369@gmail.com**
 

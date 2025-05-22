@@ -33,7 +33,7 @@
 ##  LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/bijoybiswas21?theme=dark&font=Roboto" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/BijoyBiswas21?theme=dark&font=Roboto" alt="LeetCode Stats" />
 </div>
 
 

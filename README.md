@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend,MERN**
 
-- 📫 How to reach me **bijoybiswas0369@gmail.com**
+- 📫 How to reach me **bijoybiswas8614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

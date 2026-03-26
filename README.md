@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <img align="center" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <h1 align="center">Hi 👋, I'm Bijoy Bisaws</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoybiswas21&label=Profile%20views&color=0e75b6&style=flat" alt="bijoybiswas21" /> </p>
 
